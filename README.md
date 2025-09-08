@@ -1,16 +1,13 @@
-# car_store
+## 📱 Screenshots
 
-A new Flutter project.
+Here’s how the static **Car Store UI** looks on different devices:
 
-## Getting Started
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/1252da33-5521-462c-9ef9-52b27e051e65" width="250"/>
+  <img src="https://github.com/user-attachments/assets/3d527cda-af81-4ebb-a5c8-bbcf72d29578" width="250"/>
+</p>
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+**Features shown in screenshots:**
+- Grid layout of cars with images, names, and prices
+- Responsive UI adapts for portrait and larger screens
+- Smooth scrolling with modern card design
